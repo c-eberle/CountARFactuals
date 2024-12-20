@@ -21,7 +21,7 @@ This is the code repository for my Master's Thesis: **"Using Counterfactual Expl
 │   └── __init__.py
 │
 ├── data/
-│   ├── data_diet_filtered.csv
+│   ├── data_diet_filtered.zip
 │   └── winequality-red.csv
 │
 └── experiments/
@@ -60,6 +60,6 @@ This is the code repository for my Master's Thesis: **"Using Counterfactual Expl
 ---
 
 ## Data
-- **`data_diet_filtered.csv`**: Microbiome relative abundance dataset, called "CRC" in the thesis.
+- **`data_diet_filtered.zip`**: Contains the .csv file for a microbiome relative abundance dataset, called "CRC" in the thesis.
 - **`winequality-red.csv`**: Public dataset for wine quality analysis.
 - Note: The California Housing dataset was loaded directly from sklearn. The PDAC dataset is privately used by the Uniklinikum and not published in this repository.
